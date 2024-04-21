@@ -1,0 +1,2 @@
+ISBN            TITLE           NAME            GENRE           COPIES
+1234		    Araba		    Mahmud		    Roman		    10
